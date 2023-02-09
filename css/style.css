@@ -320,6 +320,9 @@ ul.todo#completed li .buttons .complete .fas{
   display: block;
   color: #25b99a;
 }
+ul.todo#completed li .buttons .complete {
+  color: #25b99a;
+}
 
 ul.todo#completed li .buttons .complete .far{
   display: none;
